@@ -1,7 +1,6 @@
 # Dashboard · Catálogo Sísmico Instrumental del Perú 1960–2025
 
-**Curso:** Visualización de Datos · **Estudiante:** Walter Saucedo Vega
-**Entrega:** Hito 3 — versión Python + Streamlit (base de comparación con Power BI)
+**Autor** Walter Saucedo Vega
 
 Dashboard descriptivo para un **analista de monitoreo sísmico o de gestión del riesgo**. Permite priorizar
 periodos atípicos (D1), localizar concentraciones de epicentros (D2), comparar perfiles de profundidad (D3),
